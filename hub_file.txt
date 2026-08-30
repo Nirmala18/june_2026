@@ -1,2 +1,2 @@
-"this is local repository file"
+"this is central repository repository file"
 
