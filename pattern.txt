@@ -1,3 +1,15 @@
-# 1, hallow squarend =" ")
-      print()
+def triangle(n):
 
+      for i in range(n,0,-1):
+            for j in range(i):
+                  print("*",end=" ")
+                  
+            print()
+            
+n= input("Enter the input \n ")
+if not n.isdigit():
+      print("Enter the integer \n")
+else:
+      n = int(n)
+      triangle(n)
+	  
