@@ -1,1 +1,6 @@
+hi i have pull the requ n now doing some changed ==sin the same file
+i will add to stagein are for tarcking the file n commit n give message
+
+check the git log after commit, git push
+
 
